@@ -12,9 +12,9 @@
 
 table name : "user_details"
 
-Name                                      Null?    Type
+Name                                      Null?    Type\n
  ----------------------------------------- -------- ----------------------------
- ADHAR_NO                                  NOT NULL VARCHAR2(20)
+ ADHAR_NO                                  NOT NULL VARCHAR2(20)\n
  PASSWORD                                           VARCHAR2(30)
  USERNAME                                           VARCHAR2(50)
  ADDRESS                                            VARCHAR2(100)
